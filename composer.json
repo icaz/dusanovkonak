@@ -1,0 +1,15 @@
+{
+    "name": "icaz/konak.rs",
+    "description": "Dusanov konak webshop",
+    "type": "project",
+    "license": "free",
+    "authors": [
+        {
+            "name": "icaz",
+            "email": "icaz.mailg@gmail.com"
+        }
+    ],
+    "require": {
+        "cocur/slugify": "^4.0"
+    }
+}
